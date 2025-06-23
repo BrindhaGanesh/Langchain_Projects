@@ -1,4 +1,4 @@
-# 1. 📚 Research Assistant App 
+# 📚 Research Assistant App 
 file: Static_prompt_ui.py
 
 This is a simple app I built to test how a language model (LLM) responds to different user questions.
