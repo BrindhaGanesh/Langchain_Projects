@@ -6,7 +6,7 @@ This is a simple Streamlit app I made to try out semantic search with OpenAI emb
 ## Screenshot
 Here is what the app looks like when running:
 
-![App Screenshot](Data/app_screenshot.png)
+![App Screenshot](../Data/app_screenshot.png)
 ## What it does
 - Uses OpenAI's `text-embedding-3-small` model to convert text into vectors
 - Calculates similarity between your query and some example docs
