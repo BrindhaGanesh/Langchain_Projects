@@ -5,7 +5,7 @@ This is a simple app I built to test how a language model (LLM) responds to diff
 ## Screenshot
 Here is what the app looks like when running:
 
-![screenshot](Data/Static_prompt_app_screenshot.png)
+![screenshot](../Data/Static_prompt_app_screenshot.png)
 
 ## 💡 How It Works
 
