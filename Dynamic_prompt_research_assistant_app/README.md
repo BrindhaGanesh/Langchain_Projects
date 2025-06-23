@@ -35,6 +35,9 @@ Then, I let the user choose the values for paper_input, style_input, and length_
 
 5. The response is shown back to the user in the Streamlit app.
 
+---
+
+If we add some examples in the prompt template, it becomes a single-shot example or a few-shot prompt, depending on how many examples we include.
 
 
 
