@@ -1,7 +1,7 @@
 
 # Semantic Search App using OpenAI Embeddings
 This is a simple Streamlit app I made to try out semantic search with OpenAI embeddings. You type in a query, and it finds the most relevant document from a small list based on meaning, not just keywords.
-5 documents are sent as a input. Each document and query is converted to a embedding vector and semantic search is done.
+5 documents are sent as a input. Each document and query is converted to a embedding vector and semantic search is done. This app does not generate an answer or summary based on those documents using a language model like GPT.
 ---
 ## Screenshot
 Here is what the app looks like when running:
